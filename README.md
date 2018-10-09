@@ -1,9 +1,9 @@
 # @chiaweilee/zendesk.js
 fontend zendesk client
 
-<a href="https://npmcharts.com/compare/vue-zendesk?minimal=true"><img src="https://img.shields.io/npm/dm/vue-zendesk.svg" alt="Downloads"></a>
-<a href="https://www.npmjs.com/package/vue-zendesk"><img src="https://img.shields.io/npm/v/vue-zendesk.svg" alt="Version"></a>
-<a href="https://www.npmjs.com/package/vue-zendesk"><img src="https://img.shields.io/npm/l/vue-zendesk.svg" alt="License"></a>
+<a href="https://npmcharts.com/compare/@chiaweilee/zendesk.js?minimal=true"><img src="https://img.shields.io/npm/dm/@chiaweilee/zendesk.js.svg" alt="Downloads"></a>
+<a href="https://www.npmjs.com/package/@chiaweilee/zendesk.js"><img src="https://img.shields.io/npm/v/@chiaweilee/zendesk.js.svg" alt="Version"></a>
+<a href="https://www.npmjs.com/package/@chiaweilee/zendesk.js"><img src="https://img.shields.io/npm/l/@chiaweilee/zendesk.js.svg" alt="License"></a>
 
 ## Install
 ```cmd
