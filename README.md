@@ -1,4 +1,7 @@
 # @chiaweilee/zendesk.js
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/chiaweilee/zendesk.js.svg)](https://greenkeeper.io/)
+
 fontend zendesk client
 
 <a href="https://npmcharts.com/compare/@chiaweilee/zendesk.js?minimal=true"><img src="https://img.shields.io/npm/dm/@chiaweilee/zendesk.js.svg" alt="Downloads"></a>
